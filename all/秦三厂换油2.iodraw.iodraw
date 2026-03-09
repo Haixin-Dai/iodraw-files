@@ -74,18 +74,6 @@
         <mxCell id="S9s3nH_As4EUrZqdTDpY-21" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;新油外部预热至55℃&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;22至24桶（4-5小时）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="340" y="490" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wMJDRWfXDhyqMJuaSHYY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wMJDRWfXDhyqMJuaSHYY-2" target="wMJDRWfXDhyqMJuaSHYY-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wMJDRWfXDhyqMJuaSHYY-2" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;加新油22桶至24桶&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;（2-3小时）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="200" y="660" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wMJDRWfXDhyqMJuaSHYY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wMJDRWfXDhyqMJuaSHYY-4" target="wMJDRWfXDhyqMJuaSHYY-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wMJDRWfXDhyqMJuaSHYY-4" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;新油外部预热至55℃&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;22至24桶（4-5小时）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="360" y="660" width="140" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="wMJDRWfXDhyqMJuaSHYY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wMJDRWfXDhyqMJuaSHYY-6" target="wMJDRWfXDhyqMJuaSHYY-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -136,15 +124,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wMJDRWfXDhyqMJuaSHYY-19" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;加新油22桶至24桶&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;（2-3小时）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="760" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wMJDRWfXDhyqMJuaSHYY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wMJDRWfXDhyqMJuaSHYY-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="730" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="-150" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wMJDRWfXDhyqMJuaSHYY-21" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;新油外部预热至55℃&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;22至24桶（4-5小时）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="760" width="140" height="60" as="geometry" />
+          <mxGeometry x="10" y="740" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
