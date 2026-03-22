@@ -58,6 +58,12 @@
         <mxCell id="va3OdqgMt1na6liPxjUu-13" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;3.2极寒复杂地形自适应运动规划与容错控制研究&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="va3OdqgMt1na6liPxjUu-23">
           <mxGeometry y="180" width="190" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="va3OdqgMt1na6liPxjUu-28" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="574" y="455" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="va3OdqgMt1na6liPxjUu-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="va3OdqgMt1na6liPxjUu-18" target="va3OdqgMt1na6liPxjUu-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
