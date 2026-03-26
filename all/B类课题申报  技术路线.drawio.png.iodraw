@@ -20,7 +20,7 @@
           <mxGeometry x="20" y="302" width="1136" height="571" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-4" value="1.3 电机与电控系统低温适应性改进方法研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="799" y="398" width="322" height="282" as="geometry" />
+          <mxGeometry x="799" y="407" width="322" height="282" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-5" value="电机本体的低温材料、绝缘与润滑系统研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-4">
           <mxGeometry x="43" y="46" width="252" height="66" as="geometry" />
@@ -37,7 +37,7 @@
           <mxGeometry x="427" y="328" width="322" height="423" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-9" value="耐低温传感器选型、封装与外部防护设计" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-8">
-          <mxGeometry x="43" y="75" width="252" height="66" as="geometry" />
+          <mxGeometry x="43" y="76" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-10" value="低温条件下传感器内环境&#xa;控制研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-8">
           <mxGeometry x="53" y="212" width="232" height="93" as="geometry" />
