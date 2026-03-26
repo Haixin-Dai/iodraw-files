@@ -22,10 +22,10 @@
         <mxCell id="9TsjxvnB-6-gjXwixq0r-4" value="1.3 电机与电控系统低温适应性改进方法研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="799" y="398" width="322" height="282" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-5" value="电机本体的低温材料、绝缘与润滑系统研究" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-4">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-5" value="电机本体的低温材料、绝缘与润滑系统研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-4">
           <mxGeometry x="43" y="46" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-6" value="电机驱动器的低温适应性设计&#xa;与智能控制策略" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-4">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-6" value="电机驱动器的低温适应性设计&#xa;与智能控制策略" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-4">
           <mxGeometry x="58" y="187" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="9TsjxvnB-6-gjXwixq0r-4" source="9TsjxvnB-6-gjXwixq0r-5" target="9TsjxvnB-6-gjXwixq0r-6">
