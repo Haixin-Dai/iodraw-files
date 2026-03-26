@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="AQtApwNMEZg6ozPN_7MM">
-    <mxGraphModel dx="2316" dy="1456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,22 +72,22 @@
         <mxCell id="9TsjxvnB-6-gjXwixq0r-18" value="低温环境适应性技术基础研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="473.5" y="800" width="229" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-19" value="课题2：低温环境巡检机器人功能模块设计研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-19" value="课题2：低温环境巡检机器人功能模块设计研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1211" y="350" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-20" value="低温环境多场景运行需求分析研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-20" value="低温环境多场景运行需求分析研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1226" y="566" width="222" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-21" value="低温环境巡检机器人标准化功能模块设计研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-21" value="低温环境巡检机器人标准化功能模块设计研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1248" y="780" width="178" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-22" value="低温环境运输胶带巡检机器人本体与硬件系统开发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-22" value="低温环境运输胶带巡检机器人本体与硬件系统开发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1553" y="502" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-23" value="巡检机器人集成控制软件系统开发研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-23" value="巡检机器人集成控制软件系统开发研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1568" y="647" width="222" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-24" value="现场部署与可靠性验证" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-24" value="现场部署与可靠性验证" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1584" y="800" width="190" height="48" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-26" value="低温环境运输皮带巡检机器人产品" style="whiteSpace=wrap;strokeWidth=2;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontStyle=1" vertex="1" parent="1">
@@ -155,7 +155,7 @@
         <mxCell id="9TsjxvnB-6-gjXwixq0r-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9TsjxvnB-6-gjXwixq0r-41" target="9TsjxvnB-6-gjXwixq0r-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-41" value="课题3：低温环境下运输皮带巡检机器人应用开发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-41" value="课题3：低温环境下运输皮带巡检机器人应用开发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1599" y="350" width="159.5" height="65" as="geometry" />
         </mxCell>
       </root>
