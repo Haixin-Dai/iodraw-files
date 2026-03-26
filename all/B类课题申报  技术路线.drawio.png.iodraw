@@ -62,7 +62,7 @@
           <mxGeometry x="43" y="46" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-16" value="面向低温环境的智能电池管理系统&#xa;(BMS)与热管理策略研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-14">
-          <mxGeometry x="54" y="187" width="256" height="103" as="geometry" />
+          <mxGeometry x="39" y="186" width="256" height="103" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="9TsjxvnB-6-gjXwixq0r-14" source="9TsjxvnB-6-gjXwixq0r-15" target="9TsjxvnB-6-gjXwixq0r-16">
           <mxGeometry relative="1" as="geometry">
