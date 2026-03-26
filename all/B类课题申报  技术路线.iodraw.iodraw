@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="AQtApwNMEZg6ozPN_7MM">
-    <mxGraphModel dx="1737" dy="1092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="695" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,7 +36,7 @@
         <mxCell id="9TsjxvnB-6-gjXwixq0r-9" value="耐低温传感器选型、封装与外部防护设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-8">
           <mxGeometry x="43" y="46" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-10" value="低温条件下传感器内环境控制研究" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-8">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-10" value="低温条件下传感器内环境控制研究" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-8">
           <mxGeometry x="58" y="187" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-11" value="低温条件下传感器信号校正算法研究" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-8">
