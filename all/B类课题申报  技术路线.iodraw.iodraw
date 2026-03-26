@@ -79,10 +79,10 @@
           <mxGeometry x="1248" y="780" width="178" height="68" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-22" value="低温环境运输胶带巡检机器人本体与硬件系统开发研究" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1553" y="517" width="252" height="66" as="geometry" />
+          <mxGeometry x="1553" y="502" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-23" value="巡检机器人集成控制软件系统开发研究" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1568" y="658" width="222" height="66" as="geometry" />
+          <mxGeometry x="1568" y="647" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-24" value="现场部署与可靠性验证" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1584" y="800" width="190" height="48" as="geometry" />
