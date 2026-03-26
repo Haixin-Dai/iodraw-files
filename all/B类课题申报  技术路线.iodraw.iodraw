@@ -33,7 +33,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-8" value="1.2 传感器低温适应性改进方法研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-8" value="1.2 传感器低温适应性改进方法研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="427" y="327" width="322" height="423" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-9" value="耐低温传感器选型、封装与外部防护设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-8">
