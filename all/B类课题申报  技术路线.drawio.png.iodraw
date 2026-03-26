@@ -1,0 +1,164 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="AQtApwNMEZg6ozPN_7MM">
+    <mxGraphModel dx="2084" dy="1310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-1" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1518" y="300" width="322" height="573" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9TsjxvnB-6-gjXwixq0r-2" target="9TsjxvnB-6-gjXwixq0r-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-2" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1178" y="300" width="322" height="573" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9TsjxvnB-6-gjXwixq0r-3" target="9TsjxvnB-6-gjXwixq0r-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-3" value="课题1：低温环境适应性基础技术研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="20" y="302" width="1136" height="571" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-4" value="1.3 电机与电控系统低温适应性改进方法研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="799" y="398" width="322" height="282" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-5" value="电机本体的低温材料、绝缘与润滑系统研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-4">
+          <mxGeometry x="43" y="46" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-6" value="电机驱动器的低温适应性设计&#xa;与智能控制策略" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-4">
+          <mxGeometry x="58" y="187" width="222" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="9TsjxvnB-6-gjXwixq0r-4" source="9TsjxvnB-6-gjXwixq0r-5" target="9TsjxvnB-6-gjXwixq0r-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-8" value="1.2 传感器低温适应性改进方法研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="427" y="327" width="322" height="423" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-9" value="耐低温传感器选型、封装与外部防护设计" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-8">
+          <mxGeometry x="43" y="46" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-10" value="低温条件下传感器内环境控制研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-8">
+          <mxGeometry x="58" y="187" width="222" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-11" value="低温条件下传感器信号校正算法研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-8">
+          <mxGeometry x="58" y="328" width="222" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="9TsjxvnB-6-gjXwixq0r-8" source="9TsjxvnB-6-gjXwixq0r-9" target="9TsjxvnB-6-gjXwixq0r-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="9TsjxvnB-6-gjXwixq0r-8" source="9TsjxvnB-6-gjXwixq0r-10" target="9TsjxvnB-6-gjXwixq0r-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-14" value="1.1 电池及电池管理系统低温适应性改进方法研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="55" y="389" width="322" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-15" value="耐低温电池材料体系与电芯技术研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-14">
+          <mxGeometry x="43" y="46" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-16" value="面向低温环境的智能电池管理系统&#xa;(BMS)与热管理策略研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-14">
+          <mxGeometry x="54" y="187" width="230" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="9TsjxvnB-6-gjXwixq0r-14" source="9TsjxvnB-6-gjXwixq0r-15" target="9TsjxvnB-6-gjXwixq0r-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-18" value="低温环境适应性技术基础研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="518" y="800" width="141" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-19" value="课题2：低温环境巡检机器人功能模块设计研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="1211" y="350" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-20" value="低温环境多场景运行需求分析研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="1226" y="566" width="222" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-21" value="低温环境巡检机器人标准化功能模块设计研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="1248" y="780" width="178" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-22" value="低温环境运输胶带巡检机器人本体与硬件系统开发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="1553" y="502" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-23" value="巡检机器人集成控制软件系统开发研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="1568" y="647" width="222" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-24" value="现场部署与可靠性验证" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="1584" y="800" width="190" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-26" value="低温环境运输皮带巡检机器人产品" style="whiteSpace=wrap;strokeWidth=2;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1054" y="920" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="9TsjxvnB-6-gjXwixq0r-19" target="9TsjxvnB-6-gjXwixq0r-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="9TsjxvnB-6-gjXwixq0r-20" target="9TsjxvnB-6-gjXwixq0r-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="9TsjxvnB-6-gjXwixq0r-22" target="9TsjxvnB-6-gjXwixq0r-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="9TsjxvnB-6-gjXwixq0r-23" target="9TsjxvnB-6-gjXwixq0r-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.43;rounded=0;" edge="1" parent="1" source="9TsjxvnB-6-gjXwixq0r-18" target="9TsjxvnB-6-gjXwixq0r-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="588" y="898" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="9TsjxvnB-6-gjXwixq0r-21" target="9TsjxvnB-6-gjXwixq0r-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.33;rounded=0;" edge="1" parent="1" target="9TsjxvnB-6-gjXwixq0r-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1679" y="898" />
+            </Array>
+            <mxPoint x="1679.5" y="847.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.31;rounded=0;" edge="1" parent="1" source="9TsjxvnB-6-gjXwixq0r-14" target="9TsjxvnB-6-gjXwixq0r-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="216" y="775" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="9TsjxvnB-6-gjXwixq0r-8" target="9TsjxvnB-6-gjXwixq0r-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.31;rounded=0;" edge="1" parent="1" source="9TsjxvnB-6-gjXwixq0r-4" target="9TsjxvnB-6-gjXwixq0r-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="775" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9TsjxvnB-6-gjXwixq0r-41" target="9TsjxvnB-6-gjXwixq0r-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-41" value="课题3：低温环境下运输皮带巡检机器人应用开发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="1599" y="350" width="159.5" height="65" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
