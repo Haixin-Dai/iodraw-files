@@ -52,7 +52,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-14" value="1.1 电池及电池管理系统(BMS)低温适应性改进方法研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-14" value="1.1 电池及电池管理系统低温适应性改进方法研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="55" y="389" width="322" height="300" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-15" value="耐低温电池材料体系与电芯技术研究" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-14">
