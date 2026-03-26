@@ -58,7 +58,7 @@
         <mxCell id="va3OdqgMt1na6liPxjUu-12" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;3.1低温环境运输胶带巡检机器人本体与硬件系统开发研究&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="va3OdqgMt1na6liPxjUu-23" vertex="1">
           <mxGeometry y="90" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="va3OdqgMt1na6liPxjUu-13" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;3.2极寒复杂地形自适应运动规划与容错控制研究&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="va3OdqgMt1na6liPxjUu-23" vertex="1">
+        <mxCell id="va3OdqgMt1na6liPxjUu-13" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;3.2巡检机器人集成控制软件系统开发研究&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="va3OdqgMt1na6liPxjUu-23" vertex="1">
           <mxGeometry y="180" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="va3OdqgMt1na6liPxjUu-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="va3OdqgMt1na6liPxjUu-18" target="va3OdqgMt1na6liPxjUu-19" edge="1">
