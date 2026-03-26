@@ -8,10 +8,10 @@
           <mxGeometry x="1518" y="390" width="322" height="483" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-22" value="低温环境运输胶带巡检机器人本体与硬件系统开发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1553" y="570" width="252" height="66" as="geometry" />
+          <mxGeometry x="1553" y="572" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-23" value="巡检机器人集成控制软件&#xa;系统开发研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1568" y="714" width="222" height="66" as="geometry" />
+          <mxGeometry x="1568" y="682" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-24" value="现场部署与可靠性验证" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1584" y="800" width="190" height="48" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-41" value="课题3：低温环境下运输皮带巡检机器人应用开发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1599" y="418" width="159.5" height="65" as="geometry" />
+          <mxGeometry x="1599" y="463" width="159.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-46" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="20" y="400" width="1136" height="473" as="geometry" />
