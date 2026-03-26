@@ -58,10 +58,10 @@
         <mxCell id="9TsjxvnB-6-gjXwixq0r-14" value="1.1 电池及电池管理系统低温适应性改进方法研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="55" y="389" width="322" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-15" value="耐低温电池材料体系与电芯技术研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-14">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-15" value="耐低温电池材料体系与电芯技术研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-14">
           <mxGeometry x="43" y="46" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-16" value="面向低温环境的智能电池管理系统&#xa;(BMS)与热管理策略研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-14">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-16" value="面向低温环境的智能电池管理系统&#xa;(BMS)与热管理策略研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" vertex="1" parent="9TsjxvnB-6-gjXwixq0r-14">
           <mxGeometry x="54" y="187" width="230" height="84" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="9TsjxvnB-6-gjXwixq0r-14" source="9TsjxvnB-6-gjXwixq0r-15" target="9TsjxvnB-6-gjXwixq0r-16">
