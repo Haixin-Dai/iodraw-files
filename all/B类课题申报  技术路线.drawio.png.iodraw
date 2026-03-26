@@ -13,9 +13,6 @@
         <mxCell id="9TsjxvnB-6-gjXwixq0r-2" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1178" y="450" width="322" height="423" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9TsjxvnB-6-gjXwixq0r-3" target="9TsjxvnB-6-gjXwixq0r-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-3" value="课题1：低温环境适应性基础技术研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="20" y="400" width="1136" height="473" as="geometry" />
         </mxCell>
@@ -37,13 +34,13 @@
           <mxGeometry x="473.5" y="800" width="229" height="48" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-19" value="课题2：低温环境巡检机器人功能模块设计研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1211" y="522" width="252" height="66" as="geometry" />
+          <mxGeometry x="1211" y="503" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-20" value="低温环境多场景运行&#xa;需求分析研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1226" y="652" width="222" height="66" as="geometry" />
+          <mxGeometry x="1226" y="633" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-21" value="低温环境巡检机器人标准化功能模块设计研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1248" y="780" width="178" height="68" as="geometry" />
+          <mxGeometry x="1248" y="761" width="178" height="68" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-22" value="低温环境运输胶带巡检机器人本体与硬件系统开发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1553" y="569" width="252" height="66" as="geometry" />
