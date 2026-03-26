@@ -73,10 +73,10 @@
           <mxGeometry x="473.5" y="800" width="229" height="48" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-19" value="课题2：低温环境巡检机器人功能模块设计研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1211" y="350" width="252" height="66" as="geometry" />
+          <mxGeometry x="1211" y="351" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-20" value="低温环境多场景运行&#xa;需求分析研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1226" y="566" width="222" height="66" as="geometry" />
+          <mxGeometry x="1226" y="655" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-21" value="低温环境巡检机器人标准化功能模块设计研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1248" y="780" width="178" height="68" as="geometry" />
