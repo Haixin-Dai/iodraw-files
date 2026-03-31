@@ -10,11 +10,6 @@
         <mxCell id="9TsjxvnB-6-gjXwixq0r-26" value="低温环境运输皮带巡检机器人工程样机" style="whiteSpace=wrap;strokeWidth=2;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="682.5" y="480" width="316" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="1" source="9TsjxvnB-6-gjXwixq0r-18" target="9TsjxvnB-6-gjXwixq0r-26" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" parent="1" source="9TsjxvnB-6-gjXwixq0r-21" target="9TsjxvnB-6-gjXwixq0r-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
