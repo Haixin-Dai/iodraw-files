@@ -119,9 +119,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9TsjxvnB-6-gjXwixq0r-3" target="9TsjxvnB-6-gjXwixq0r-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-49" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="679.5" y="620" width="322" height="433" as="geometry" />
         </mxCell>
@@ -152,6 +149,9 @@
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-41" value="低温环境下运输皮带巡检机器人应用开发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-49" vertex="1">
           <mxGeometry x="81" y="23" width="159.5" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="69JDH5XUOGrwDv1yiABV-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9TsjxvnB-6-gjXwixq0r-3" target="9TsjxvnB-6-gjXwixq0r-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
