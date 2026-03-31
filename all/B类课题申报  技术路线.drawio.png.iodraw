@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="69JDH5XUOGrwDv1yiABV-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9TsjxvnB-6-gjXwixq0r-26" target="9TsjxvnB-6-gjXwixq0r-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-26" value="低温环境运输皮带巡检机器人工程样机" style="whiteSpace=wrap;strokeWidth=2;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="682.5" y="480" width="316" height="60" as="geometry" />
         </mxCell>
@@ -132,7 +135,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-49" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="540" y="620" width="322" height="433" as="geometry" />
+          <mxGeometry x="679.5" y="620" width="322" height="433" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-1" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="9TsjxvnB-6-gjXwixq0r-49" vertex="1">
           <mxGeometry width="322" height="433" as="geometry" />
