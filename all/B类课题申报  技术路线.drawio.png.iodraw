@@ -11,7 +11,7 @@
           <mxGeometry x="682.5" y="480" width="316" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-46" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="272.5" y="-527" width="1136" height="473" as="geometry" />
+          <mxGeometry x="272.5" y="-517" width="1136" height="473" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-3" value="课题1：低温环境适应性基础技术研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="9TsjxvnB-6-gjXwixq0r-46" vertex="1">
           <mxGeometry width="1136" height="473" as="geometry" />
@@ -95,7 +95,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-47" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="679.5" y="-10" width="322" height="423" as="geometry" />
+          <mxGeometry x="679.5" y="9" width="322" height="423" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-2" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="9TsjxvnB-6-gjXwixq0r-47" vertex="1">
           <mxGeometry width="322" height="423" as="geometry" />
@@ -120,7 +120,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-49" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="679.5" y="619" width="322" height="433" as="geometry" />
+          <mxGeometry x="679.5" y="590" width="322" height="433" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-1" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="9TsjxvnB-6-gjXwixq0r-49" vertex="1">
           <mxGeometry width="322" height="433" as="geometry" />
