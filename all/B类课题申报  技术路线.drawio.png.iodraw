@@ -33,7 +33,7 @@
         <mxCell id="9TsjxvnB-6-gjXwixq0r-3" value="课题1：低温环境适应性基础技术研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="9TsjxvnB-6-gjXwixq0r-46" vertex="1">
           <mxGeometry width="1136" height="473" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-14" value="1.1 电池及电池管理系统低温适应性改进方法研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-46" vertex="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-14" value="电池及电池管理系统低温适应性改进方法研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-46" vertex="1">
           <mxGeometry x="35" y="48.5" width="322" height="300" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-15" value="耐低温电池材料体系与电芯技术研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-14" vertex="1">
@@ -72,7 +72,7 @@
         <mxCell id="9TsjxvnB-6-gjXwixq0r-44" value="" style="group" parent="9TsjxvnB-6-gjXwixq0r-46" vertex="1" connectable="0">
           <mxGeometry x="407" y="23" width="322" height="351" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-8" value="1.2 传感器低温适应性改进方法研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontSize=17;container=0;" parent="9TsjxvnB-6-gjXwixq0r-44" vertex="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-8" value="传感器低温适应性改进方法研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontSize=17;container=0;" parent="9TsjxvnB-6-gjXwixq0r-44" vertex="1">
           <mxGeometry width="322" height="351" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-9" value="耐低温传感器选型、封装与外部防护设计" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-44" vertex="1">
@@ -167,7 +167,7 @@
         <mxCell id="9TsjxvnB-6-gjXwixq0r-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="9TsjxvnB-6-gjXwixq0r-49" source="9TsjxvnB-6-gjXwixq0r-41" target="9TsjxvnB-6-gjXwixq0r-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-41" value="课题3：低温环境下运输皮带巡检机器人应用开发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-49" vertex="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-41" value="低温环境下运输皮带巡检机器人应用开发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-49" vertex="1">
           <mxGeometry x="81" y="23" width="159.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9TsjxvnB-6-gjXwixq0r-2" target="9TsjxvnB-6-gjXwixq0r-1" edge="1">
