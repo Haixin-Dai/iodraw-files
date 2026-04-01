@@ -19,26 +19,26 @@
         <mxCell id="9TsjxvnB-6-gjXwixq0r-16" value="极寒环境电池智能防护与热管理&#xa;集成系统研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-14" vertex="1">
           <mxGeometry x="41" y="163" width="256" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-18" value="低温环境适应性技术基础研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-46" vertex="1">
-          <mxGeometry x="453.5" y="400" width="229" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.31;rounded=0;" parent="9TsjxvnB-6-gjXwixq0r-46" source="9TsjxvnB-6-gjXwixq0r-14" target="9TsjxvnB-6-gjXwixq0r-18" edge="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.31;rounded=0;" parent="9TsjxvnB-6-gjXwixq0r-46" source="9TsjxvnB-6-gjXwixq0r-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="196" y="375" />
             </Array>
+            <mxPoint x="453.5" y="414.8800000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="9TsjxvnB-6-gjXwixq0r-46" source="9TsjxvnB-6-gjXwixq0r-8" target="9TsjxvnB-6-gjXwixq0r-18" edge="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="9TsjxvnB-6-gjXwixq0r-46" source="9TsjxvnB-6-gjXwixq0r-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="568" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.31;rounded=0;" parent="9TsjxvnB-6-gjXwixq0r-46" source="9TsjxvnB-6-gjXwixq0r-4" target="9TsjxvnB-6-gjXwixq0r-18" edge="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.31;rounded=0;" parent="9TsjxvnB-6-gjXwixq0r-46" source="9TsjxvnB-6-gjXwixq0r-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="940" y="375" />
             </Array>
+            <mxPoint x="682.5" y="414.8800000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-44" value="" style="group" parent="9TsjxvnB-6-gjXwixq0r-46" vertex="1" connectable="0">
@@ -56,11 +56,6 @@
         <mxCell id="9TsjxvnB-6-gjXwixq0r-11" value="低温条件下传感器信号&#xa;校正算法研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-44" vertex="1">
           <mxGeometry x="58" y="256" width="222" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="9TsjxvnB-6-gjXwixq0r-44" source="9TsjxvnB-6-gjXwixq0r-10" target="9TsjxvnB-6-gjXwixq0r-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-45" value="" style="group" parent="9TsjxvnB-6-gjXwixq0r-46" vertex="1" connectable="0">
           <mxGeometry x="779" y="71" width="322" height="255" as="geometry" />
         </mxCell>
@@ -72,11 +67,6 @@
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-6" value="电机驱动器的低温适应性设计&#xa;与智能控制策略" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-45" vertex="1">
           <mxGeometry x="58" y="160" width="222" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="9TsjxvnB-6-gjXwixq0r-45" source="9TsjxvnB-6-gjXwixq0r-5" target="9TsjxvnB-6-gjXwixq0r-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-47" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="679.5" y="9" width="322" height="423" as="geometry" />
