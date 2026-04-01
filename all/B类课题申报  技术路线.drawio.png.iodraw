@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="AQtApwNMEZg6ozPN_7MM">
-    <mxGraphModel dx="632" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry width="1136" height="473" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-18" value="极寒环境适应性应用研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-46" vertex="1">
-          <mxGeometry x="77.5" y="17" width="229" height="48" as="geometry" />
+          <mxGeometry x="426.75" y="17" width="282.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-47" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="679.5" y="9" width="322" height="423" as="geometry" />
