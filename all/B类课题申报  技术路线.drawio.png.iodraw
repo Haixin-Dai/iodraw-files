@@ -20,18 +20,13 @@
           <mxGeometry x="41" y="163" width="256" height="103" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-18" value="极寒环境适应性应用研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-46" vertex="1">
-          <mxGeometry x="453.5" y="400" width="229" height="48" as="geometry" />
+          <mxGeometry x="377.5" y="417" width="229" height="48" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.31;rounded=0;" parent="9TsjxvnB-6-gjXwixq0r-46" source="9TsjxvnB-6-gjXwixq0r-14" target="9TsjxvnB-6-gjXwixq0r-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="196" y="375" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="9TsjxvnB-6-gjXwixq0r-46" source="9TsjxvnB-6-gjXwixq0r-8" target="9TsjxvnB-6-gjXwixq0r-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-44" value="" style="group" parent="9TsjxvnB-6-gjXwixq0r-46" vertex="1" connectable="0">
