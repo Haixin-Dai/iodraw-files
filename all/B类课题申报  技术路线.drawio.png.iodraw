@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="AQtApwNMEZg6ozPN_7MM">
-    <mxGraphModel dx="2605" dy="2807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="2105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="426.75" y="17" width="282.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-49" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="679.5" y="395" width="322" height="433" as="geometry" />
+          <mxGeometry x="679.5" y="392" width="322" height="433" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-1" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="9TsjxvnB-6-gjXwixq0r-49" vertex="1">
           <mxGeometry width="322" height="433" as="geometry" />
@@ -41,7 +41,7 @@
         <mxCell id="9TsjxvnB-6-gjXwixq0r-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="9TsjxvnB-6-gjXwixq0r-49" source="9TsjxvnB-6-gjXwixq0r-41" target="9TsjxvnB-6-gjXwixq0r-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-41" value="低温环境下运输皮带巡检机器人应用开发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-49" vertex="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-41" value="露天煤矿胶带输送系统巡检机器人开发及应用" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-49" vertex="1">
           <mxGeometry x="81" y="23" width="159.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="69JDH5XUOGrwDv1yiABV-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9TsjxvnB-6-gjXwixq0r-3" target="9TsjxvnB-6-gjXwixq0r-2" edge="1">
