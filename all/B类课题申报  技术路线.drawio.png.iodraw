@@ -91,13 +91,13 @@
           <mxGeometry width="322" height="351" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-9" value="耐低温传感器选型、封装与外部防护设计" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-44" vertex="1">
-          <mxGeometry x="43" y="41" width="252" height="66" as="geometry" />
+          <mxGeometry x="35" y="41" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-10" value="低温条件下传感器内环境&#xa;控制研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-44" vertex="1">
-          <mxGeometry x="53" y="140" width="232" height="93" as="geometry" />
+          <mxGeometry x="45" y="140" width="232" height="93" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-11" value="低温条件下传感器信号&#xa;校正算法研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-44" vertex="1">
-          <mxGeometry x="58" y="256" width="222" height="66" as="geometry" />
+          <mxGeometry x="50" y="256" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-45" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1051.5" y="-372" width="322" height="255" as="geometry" />
