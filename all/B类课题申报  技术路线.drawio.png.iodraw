@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="AQtApwNMEZg6ozPN_7MM">
-    <mxGraphModel dx="1303" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1603" dy="2177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,11 +18,6 @@
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-16" value="极寒环境电池智能防护与热管理&#xa;集成系统研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-14" vertex="1">
           <mxGeometry x="41" y="163" width="256" height="103" as="geometry" />
-        </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="9TsjxvnB-6-gjXwixq0r-14" source="9TsjxvnB-6-gjXwixq0r-15" target="9TsjxvnB-6-gjXwixq0r-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-18" value="低温环境适应性技术基础研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-46" vertex="1">
           <mxGeometry x="453.5" y="400" width="229" height="48" as="geometry" />
