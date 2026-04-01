@@ -19,7 +19,7 @@
         <mxCell id="9TsjxvnB-6-gjXwixq0r-2" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="9TsjxvnB-6-gjXwixq0r-47" vertex="1">
           <mxGeometry width="322" height="423" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-19" value="低温环境巡检机器人功能模块设计研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-47" vertex="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-19" value="极寒环境巡检机器人功能模块设计研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-47" vertex="1">
           <mxGeometry x="33" y="53" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-20" value="低温环境多场景运行&#xa;需求分析研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-47" vertex="1">
