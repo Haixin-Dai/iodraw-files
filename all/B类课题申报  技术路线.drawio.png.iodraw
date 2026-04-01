@@ -19,26 +19,26 @@
         <mxCell id="9TsjxvnB-6-gjXwixq0r-16" value="极寒环境电池智能防护与热管理&#xa;集成系统研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-14" vertex="1">
           <mxGeometry x="41" y="163" width="256" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.31;rounded=0;" parent="9TsjxvnB-6-gjXwixq0r-46" source="9TsjxvnB-6-gjXwixq0r-14" edge="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-18" value="低温环境适应性技术基础研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-46" vertex="1">
+          <mxGeometry x="453.5" y="400" width="229" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.31;rounded=0;" parent="9TsjxvnB-6-gjXwixq0r-46" source="9TsjxvnB-6-gjXwixq0r-14" target="9TsjxvnB-6-gjXwixq0r-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="196" y="375" />
             </Array>
-            <mxPoint x="453.5" y="414.8800000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="9TsjxvnB-6-gjXwixq0r-46" source="9TsjxvnB-6-gjXwixq0r-8" edge="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="9TsjxvnB-6-gjXwixq0r-46" source="9TsjxvnB-6-gjXwixq0r-8" target="9TsjxvnB-6-gjXwixq0r-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="568" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.31;rounded=0;" parent="9TsjxvnB-6-gjXwixq0r-46" source="9TsjxvnB-6-gjXwixq0r-4" edge="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.31;rounded=0;" parent="9TsjxvnB-6-gjXwixq0r-46" source="9TsjxvnB-6-gjXwixq0r-4" target="9TsjxvnB-6-gjXwixq0r-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="940" y="375" />
             </Array>
-            <mxPoint x="682.5" y="414.8800000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-44" value="" style="group" parent="9TsjxvnB-6-gjXwixq0r-46" vertex="1" connectable="0">
