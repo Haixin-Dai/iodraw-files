@@ -46,12 +46,6 @@
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-328" value="市场与渠道分析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0066CC;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="180" y="210" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OTSzIn5FL8yCRSP8Tnob-329" value="" style="endArrow=none;dashed=1;html=1;fontSize=15;fontColor=#FFFFFF;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="OTSzIn5FL8yCRSP8Tnob-323" target="OTSzIn5FL8yCRSP8Tnob-323" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="390" as="sourcePoint" />
-            <mxPoint x="290" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-330" value="多维度盈利分析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0066CC;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="338.5" y="160" width="130" height="40" as="geometry" />
         </mxCell>
@@ -75,9 +69,6 @@
         </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-336" value="实施欺诈交易分析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0066CC;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="640" y="210" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="OTSzIn5FL8yCRSP8Tnob-337" value="经营优化&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontSize=20;fontColor=#0066CC;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="180" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-338" value="管理提升" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontSize=20;fontColor=#0066CC;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="410" y="120" width="120" height="40" as="geometry" />
