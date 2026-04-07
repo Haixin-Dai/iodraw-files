@@ -41,10 +41,10 @@
           <mxGeometry x="160" y="440" width="650" height="140" as="geometry" />
         </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-327" value="集团在冬季严寒地区拥有大量资产，巡检需求丰富" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0066CC;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="180" y="129" width="380" height="40" as="geometry" />
+          <mxGeometry x="180" y="108" width="380" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-328" value="现有人工巡检成本高、效果不稳定且存在安全风险" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0066CC;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="180" y="179" width="380" height="40" as="geometry" />
+          <mxGeometry x="180" y="158" width="380" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-340" value="用户画像" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#67AB9F;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="180" y="300" width="110" height="40" as="geometry" />
@@ -116,8 +116,8 @@
             <mxPoint x="475" y="408.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aFrnhhajg7zT2JTT8j3Q-2" value="现有人工巡检成本高、效果不稳定且存在安全风险" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0066CC;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="180" y="230" width="380" height="40" as="geometry" />
+        <mxCell id="aFrnhhajg7zT2JTT8j3Q-2" value="现有巡检机器人实际使用效果差、使用规模小" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0066CC;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="209" width="380" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
