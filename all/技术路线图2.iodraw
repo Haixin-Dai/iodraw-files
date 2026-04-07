@@ -53,16 +53,16 @@
           <mxGeometry x="510" y="260" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-349" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Helvetica&quot;&gt;通用动力底盘与移动平台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#66CC00;fontSize=20;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="356.5" y="440" width="210" height="40" as="geometry" />
+          <mxGeometry x="356.5" y="433" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-353" value="&lt;b&gt;&lt;span style=&quot;font-size:16.0pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;整机集成&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#009999;fontSize=20;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="255" y="530" width="130" height="64" as="geometry" />
+          <mxGeometry x="255" y="521" width="130" height="64" as="geometry" />
         </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-354" value="&lt;b&gt;&lt;span style=&quot;font-size:16.0pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;控制系统&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#009999;fontSize=20;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="472" y="532" width="150" height="64" as="geometry" />
+          <mxGeometry x="472" y="523" width="150" height="64" as="geometry" />
         </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-355" value="&lt;b&gt;&lt;span style=&quot;font-size:16.0pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;font-family:仿宋_GB2312;mso-hansi-font-family:仿宋_GB2312;mso-bidi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;现场部署与可靠性验证&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#009999;fontSize=20;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="695" y="530" width="240" height="64" as="geometry" />
+          <mxGeometry x="695" y="521" width="240" height="64" as="geometry" />
         </mxCell>
         <mxCell id="aFrnhhajg7zT2JTT8j3Q-2" value="现有巡检机器人实际使用效果差、使用规模小" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0066CC;fontSize=17;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="402" y="199" width="380" height="40" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="740" y="260" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aFrnhhajg7zT2JTT8j3Q-7" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Helvetica&quot;&gt;多种巡检感知与作业模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#66CC00;fontSize=20;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="623.5" y="440" width="210" height="40" as="geometry" />
+          <mxGeometry x="623.5" y="433" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aFrnhhajg7zT2JTT8j3Q-9" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;电池极寒性能测试体系&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#67AB9F;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="180" y="310.5" width="310" height="26.5" as="geometry" />
