@@ -76,10 +76,10 @@
           <mxGeometry x="750" y="-90" width="660" height="330" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-22" value="极寒环境运输胶带巡检机器人整机集成开发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="785" y="42.5" width="252" height="66" as="geometry" />
+          <mxGeometry x="1129" y="-7" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-23" value="巡检机器人控制软件&#xa;系统开发研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="1144" y="70" width="222" height="66" as="geometry" />
+          <mxGeometry x="1144" y="72" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-24" value="现场部署与可靠性验证" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="1160" y="160" width="190" height="48" as="geometry" />
@@ -95,7 +95,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-41" value="露天煤矿胶带输送系统巡检机器人开发及应用" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=19;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="811.25" y="-72" width="199.5" height="65" as="geometry" />
+          <mxGeometry x="1155.25" y="-85" width="199.5" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
