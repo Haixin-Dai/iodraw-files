@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zO_vQbQa0jx0Zkd5eRA0-7" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="330" y="-90" width="322" height="331" as="geometry" />
+          <mxGeometry x="390" y="-90" width="322" height="331" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-2" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="zO_vQbQa0jx0Zkd5eRA0-7" vertex="1">
           <mxGeometry width="322" height="331" as="geometry" />
@@ -72,30 +72,33 @@
         <mxCell id="9TsjxvnB-6-gjXwixq0r-18" value="极寒环境适应性应用研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=23;fontStyle=1" parent="OeHO5-69i4a8Tv_c34MA-3" vertex="1">
           <mxGeometry x="399.25" y="17" width="282.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-1" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="OeHO5-69i4a8Tv_c34MA-4" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1040" y="-90" width="310" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-22" value="极寒环境运输胶带巡检机器人整机集成开发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="1069" y="-7" width="252" height="66" as="geometry" />
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-1" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="OeHO5-69i4a8Tv_c34MA-4" vertex="1">
+          <mxGeometry width="310" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-23" value="巡检机器人控制软件&#xa;系统开发研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="1084" y="72" width="222" height="66" as="geometry" />
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-22" value="极寒环境运输胶带巡检机器人整机集成开发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" parent="OeHO5-69i4a8Tv_c34MA-4" vertex="1">
+          <mxGeometry x="29" y="83" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-24" value="现场部署与可靠性验证" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="160" width="190" height="48" as="geometry" />
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-23" value="巡检机器人控制软件&#xa;系统开发研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" parent="OeHO5-69i4a8Tv_c34MA-4" vertex="1">
+          <mxGeometry x="44" y="162" width="222" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="9TsjxvnB-6-gjXwixq0r-22" target="9TsjxvnB-6-gjXwixq0r-23" edge="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-24" value="现场部署与可靠性验证" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" parent="OeHO5-69i4a8Tv_c34MA-4" vertex="1">
+          <mxGeometry x="60" y="250" width="190" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="OeHO5-69i4a8Tv_c34MA-4" source="9TsjxvnB-6-gjXwixq0r-22" target="9TsjxvnB-6-gjXwixq0r-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="9TsjxvnB-6-gjXwixq0r-23" target="9TsjxvnB-6-gjXwixq0r-24" edge="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" parent="OeHO5-69i4a8Tv_c34MA-4" source="9TsjxvnB-6-gjXwixq0r-23" target="9TsjxvnB-6-gjXwixq0r-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-41" value="露天煤矿胶带输送系统巡检机器人开发及应用" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=19;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1095.25" y="-85" width="199.5" height="65" as="geometry" />
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-41" value="露天煤矿胶带输送系统巡检机器人开发及应用" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=19;fontStyle=1" parent="OeHO5-69i4a8Tv_c34MA-4" vertex="1">
+          <mxGeometry x="55.25" y="5" width="199.5" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
