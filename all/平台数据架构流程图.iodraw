@@ -90,6 +90,15 @@
         <mxCell id="aFrnhhajg7zT2JTT8j3Q-12" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;智能电池管理算法&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#67AB9F;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="180" y="370" width="310" height="26.5" as="geometry" />
         </mxCell>
+        <mxCell id="aFrnhhajg7zT2JTT8j3Q-13" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;电池极寒性能测试体系&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#67AB9F;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="310.75" width="310" height="26.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aFrnhhajg7zT2JTT8j3Q-14" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;主动加热系统与被动保温&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#67AB9F;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="340.75" width="310" height="26.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aFrnhhajg7zT2JTT8j3Q-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;智能电池管理算法&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#67AB9F;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="370.25" width="310" height="26.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
