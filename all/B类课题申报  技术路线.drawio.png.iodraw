@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="AQtApwNMEZg6ozPN_7MM">
-    <mxGraphModel dx="2286" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2751" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="zO_vQbQa0jx0Zkd5eRA0-5" value="" style="group" parent="OeHO5-69i4a8Tv_c34MA-3" vertex="1" connectable="0">
           <mxGeometry x="23.5" y="122.5" width="322" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-14" value="电池及电池管理系统极寒适应性改进方法研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=none;fontColor=#ffffff;strokeColor=#005700;fontSize=17;container=0;" parent="zO_vQbQa0jx0Zkd5eRA0-5" vertex="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-14" value="电池及电池管理系统极寒适应性改进方法研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#008a00;fontColor=#000000;strokeColor=#005700;fontSize=17;container=0;" parent="zO_vQbQa0jx0Zkd5eRA0-5" vertex="1">
           <mxGeometry width="322" height="300" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-15" value="面向极寒应用的电池性能测试体系开发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" parent="zO_vQbQa0jx0Zkd5eRA0-5" vertex="1">
