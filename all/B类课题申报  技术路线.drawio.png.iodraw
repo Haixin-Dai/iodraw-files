@@ -13,7 +13,7 @@
         <mxCell id="OeHO5-69i4a8Tv_c34MA-3" value="" style="group;fillColor=none;" vertex="1" connectable="0" parent="OeHO5-69i4a8Tv_c34MA-29">
           <mxGeometry width="1080" height="467" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-3" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=none;strokeColor=#82b366;" parent="OeHO5-69i4a8Tv_c34MA-3" vertex="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-3" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="OeHO5-69i4a8Tv_c34MA-3" vertex="1">
           <mxGeometry width="1080" height="467" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-44" value="" style="group" parent="OeHO5-69i4a8Tv_c34MA-3" vertex="1" connectable="0">
@@ -46,7 +46,7 @@
         <mxCell id="zO_vQbQa0jx0Zkd5eRA0-5" value="" style="group" parent="OeHO5-69i4a8Tv_c34MA-3" vertex="1" connectable="0">
           <mxGeometry x="23.5" y="122.5" width="322" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-14" value="电池及电池管理系统极寒适应性改进方法研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#008a00;fontColor=#000000;strokeColor=#005700;fontSize=17;container=0;" parent="zO_vQbQa0jx0Zkd5eRA0-5" vertex="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-14" value="电池及电池管理系统极寒适应性改进方法研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontSize=17;container=0;" parent="zO_vQbQa0jx0Zkd5eRA0-5" vertex="1">
           <mxGeometry width="322" height="300" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-15" value="面向极寒应用的电池性能测试体系开发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" parent="zO_vQbQa0jx0Zkd5eRA0-5" vertex="1">
@@ -79,7 +79,7 @@
         <mxCell id="zO_vQbQa0jx0Zkd5eRA0-7" value="" style="group" parent="OeHO5-69i4a8Tv_c34MA-28" vertex="1" connectable="0">
           <mxGeometry y="30" width="322" height="331" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-2" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=none;strokeColor=#d79b00;" parent="zO_vQbQa0jx0Zkd5eRA0-7" vertex="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-2" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="zO_vQbQa0jx0Zkd5eRA0-7" vertex="1">
           <mxGeometry width="322" height="331" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-19" value="极寒环境巡检机器人功能模块设计研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=21;fontStyle=1" parent="zO_vQbQa0jx0Zkd5eRA0-7" vertex="1">
@@ -99,7 +99,7 @@
         <mxCell id="OeHO5-69i4a8Tv_c34MA-4" value="" style="group" vertex="1" connectable="0" parent="OeHO5-69i4a8Tv_c34MA-28">
           <mxGeometry x="650" y="30" width="310" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="9TsjxvnB-6-gjXwixq0r-1" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=none;strokeColor=#d6b656;" parent="OeHO5-69i4a8Tv_c34MA-4" vertex="1">
+        <mxCell id="9TsjxvnB-6-gjXwixq0r-1" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="OeHO5-69i4a8Tv_c34MA-4" vertex="1">
           <mxGeometry width="310" height="330" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-22" value="极寒环境运输胶带巡检机器人整机集成开发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" parent="OeHO5-69i4a8Tv_c34MA-4" vertex="1">
