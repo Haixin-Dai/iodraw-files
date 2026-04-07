@@ -124,17 +124,17 @@
         <mxCell id="9TsjxvnB-6-gjXwixq0r-41" value="露天煤矿胶带输送系统巡检机器人开发及应用" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=19;fontStyle=1" parent="OeHO5-69i4a8Tv_c34MA-4" vertex="1">
           <mxGeometry x="55.25" y="5" width="199.5" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="OeHO5-69i4a8Tv_c34MA-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#006EAF;fillColor=#1ba1e2;" edge="1" parent="OeHO5-69i4a8Tv_c34MA-28">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" as="sourcePoint" />
-            <mxPoint x="340" y="30" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OeHO5-69i4a8Tv_c34MA-12" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;整机集成&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="OeHO5-69i4a8Tv_c34MA-28">
           <mxGeometry x="420" y="140" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OeHO5-69i4a8Tv_c34MA-17" value="基础支持" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=24;" vertex="1" parent="OeHO5-69i4a8Tv_c34MA-28">
           <mxGeometry x="350" y="20" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OeHO5-69i4a8Tv_c34MA-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#006EAF;fillColor=#1ba1e2;" edge="1" parent="OeHO5-69i4a8Tv_c34MA-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" as="sourcePoint" />
+            <mxPoint x="340" y="30" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OeHO5-69i4a8Tv_c34MA-13" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;反馈改进&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="OeHO5-69i4a8Tv_c34MA-28">
           <mxGeometry x="420" y="250" width="120" height="20" as="geometry" />
