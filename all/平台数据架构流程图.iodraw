@@ -46,8 +46,8 @@
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-328" value="现有人工巡检成本高、效果不稳定且存在安全风险" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0066CC;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="180" y="148" width="380" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OTSzIn5FL8yCRSP8Tnob-340" value="&lt;b&gt;&lt;span style=&quot;font-size:16.0pt;mso-bidi-font-size:&amp;lt;br/&amp;gt;11.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;&amp;lt;br/&amp;gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&amp;lt;br/&amp;gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;电池及电池管理系统&lt;/span&gt;&lt;span style=&quot;font-size:16.0pt;mso-bidi-font-size:11.0pt;&amp;lt;br/&amp;gt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;&amp;lt;br/&amp;gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&amp;lt;br/&amp;gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;极寒适应性改进&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#67AB9F;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="180" y="300" width="110" height="40" as="geometry" />
+        <mxCell id="OTSzIn5FL8yCRSP8Tnob-340" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;电池及电池管理系统极寒适应性改进&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#67AB9F;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="180" y="300" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OTSzIn5FL8yCRSP8Tnob-341" value="KPI模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#67AB9F;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="180" y="367" width="110" height="40" as="geometry" />
