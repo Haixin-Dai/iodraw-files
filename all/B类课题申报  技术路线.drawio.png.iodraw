@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="AQtApwNMEZg6ozPN_7MM">
-    <mxGraphModel dx="2605" dy="2807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2084" dy="2479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="69JDH5XUOGrwDv1yiABV-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9TsjxvnB-6-gjXwixq0r-3" target="9TsjxvnB-6-gjXwixq0r-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zO_vQbQa0jx0Zkd5eRA0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9TsjxvnB-6-gjXwixq0r-2" target="9TsjxvnB-6-gjXwixq0r-1">
+        <mxCell id="zO_vQbQa0jx0Zkd5eRA0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9TsjxvnB-6-gjXwixq0r-2" target="9TsjxvnB-6-gjXwixq0r-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-44" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -46,7 +46,7 @@
         <mxCell id="9TsjxvnB-6-gjXwixq0r-6" value="电机驱动器的极寒适应性设计&#xa;与智能控制策略" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" parent="9TsjxvnB-6-gjXwixq0r-45" vertex="1">
           <mxGeometry x="50" y="160" width="222" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="zO_vQbQa0jx0Zkd5eRA0-5" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="zO_vQbQa0jx0Zkd5eRA0-5" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="307.5" y="-394.5" width="322" height="300" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-14" value="电池及电池管理系统极寒适应性改进方法研究" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontSize=17;container=0;" parent="zO_vQbQa0jx0Zkd5eRA0-5" vertex="1">
@@ -58,7 +58,7 @@
         <mxCell id="9TsjxvnB-6-gjXwixq0r-16" value="极寒环境电池智能防护与热管理&#xa;集成系统研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=17;" parent="zO_vQbQa0jx0Zkd5eRA0-5" vertex="1">
           <mxGeometry x="33" y="163" width="256" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="zO_vQbQa0jx0Zkd5eRA0-7" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="zO_vQbQa0jx0Zkd5eRA0-7" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="679.5" y="9" width="322" height="331" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-2" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="zO_vQbQa0jx0Zkd5eRA0-7" vertex="1">
