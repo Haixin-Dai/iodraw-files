@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="AQtApwNMEZg6ozPN_7MM">
-    <mxGraphModel dx="1389" dy="2042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2084" dy="2479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,12 +12,6 @@
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-18" value="极寒环境适应性应用研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=23;fontStyle=1" parent="9TsjxvnB-6-gjXwixq0r-46" vertex="1">
           <mxGeometry x="426.75" y="17" width="282.5" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="69JDH5XUOGrwDv1yiABV-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9TsjxvnB-6-gjXwixq0r-3" target="9TsjxvnB-6-gjXwixq0r-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zO_vQbQa0jx0Zkd5eRA0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9TsjxvnB-6-gjXwixq0r-2" target="9TsjxvnB-6-gjXwixq0r-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-44" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="679.5" y="-420" width="322" height="351" as="geometry" />
@@ -79,13 +73,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OeHO5-69i4a8Tv_c34MA-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1080" width="322" height="418" as="geometry" />
+          <mxGeometry x="890" width="322" height="418" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-1" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="OeHO5-69i4a8Tv_c34MA-1" vertex="1">
           <mxGeometry width="322" height="418" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-22" value="极寒环境运输胶带巡检机器人整机集成开发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" parent="OeHO5-69i4a8Tv_c34MA-1" vertex="1">
           <mxGeometry x="35" y="111" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="OeHO5-69i4a8Tv_c34MA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OeHO5-69i4a8Tv_c34MA-1" source="9TsjxvnB-6-gjXwixq0r-23" target="9TsjxvnB-6-gjXwixq0r-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9TsjxvnB-6-gjXwixq0r-23" value="巡检机器人控制软件&#xa;系统开发研究" style="rounded=0;arcSize=20;strokeWidth=2;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=17;" parent="OeHO5-69i4a8Tv_c34MA-1" vertex="1">
           <mxGeometry x="50" y="221" width="222" height="66" as="geometry" />
